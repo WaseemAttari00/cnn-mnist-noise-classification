@@ -10,5 +10,5 @@ Currently working on:
 • Algorithms & coding practice
 
 📫 How to reach me:
-LinkedIn: [your-linkedin](https://www.linkedin.com/in/waseemattari/)
+LinkedIn: https://www.linkedin.com/in/waseemattari/
 Email: waseematari2000@gmail.com
